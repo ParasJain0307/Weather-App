@@ -30,18 +30,19 @@ A simple weather application built using HTML, CSS, and JavaScript that allows u
 
 weather-app/
 ├── images/
-│ ├── clear.png
-│ ├── clouds.png
-│ ├── drizzle.png
-│ ├── humidity.png
-│ ├── mist.png
-│ ├── rain.png
-│ ├── search.png
-│ └── wind.png
+│   ├── clear.png
+│   ├── clouds.png
+│   ├── drizzle.png
+│   ├── humidity.png
+│   ├── mist.png
+│   ├── rain.png
+│   ├── search.png
+│   └── wind.png
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+
 
 
 
