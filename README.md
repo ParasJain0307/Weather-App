@@ -28,7 +28,20 @@ A simple weather application built using HTML, CSS, and JavaScript that allows u
 
 ## 📁 Project Structure
 
-<pre> <code> ``` weather-app/ ├── images/ │ ├── clear.png │ ├── clouds.png │ ├── drizzle.png │ ├── humidity.png │ ├── mist.png │ ├── rain.png │ ├── search.png │ └── wind.png ├── index.html ├── style.css ├── script.js └── README.md ``` </code> </pre>
+<pre> <code> ```weather-app/
+├── images/
+│ ├── clear.png
+│ ├── clouds.png
+│ ├── drizzle.png
+│ ├── humidity.png
+│ ├── mist.png
+│ ├── rain.png
+│ ├── search.png
+│ └── wind.png
+├── index.html
+├── style.css
+├── script.js
+└── README.md ``` </code> </pre>
 
 
 
