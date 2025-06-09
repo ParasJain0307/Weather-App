@@ -28,7 +28,8 @@ A simple weather application built using HTML, CSS, and JavaScript that allows u
 
 ## 📁 Project Structure
 
-<pre> <code> ```weather-app/
+<pre> <code>
+weather-app/
 ├── images/
 │ ├── clear.png
 │ ├── clouds.png
@@ -41,7 +42,7 @@ A simple weather application built using HTML, CSS, and JavaScript that allows u
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md ``` </code> </pre>
+└── README.md </code> </pre>
 
 
 
