@@ -43,7 +43,7 @@ searchbtn.addEventListener("click", () => {
     }
 })
 
-searchbox.addEventListener("keypress", function (e) {
+searchbox.addEventListener("keypress", (e)=> {
     if (e.key === "Enter") {
         const city = searchbox.value.trim();
         if (city !== "") {
